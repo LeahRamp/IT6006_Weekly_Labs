@@ -1,0 +1,15 @@
+nav{
+    padding: 10px;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+nav a{
+    padding: 10px;
+    padding: 10px;
+    color: white;
+    background-color: cadetblue;
+    margin: 2px;
+    border-radius: 12px;
+}
